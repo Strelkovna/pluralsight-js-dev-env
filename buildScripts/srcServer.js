@@ -2,6 +2,15 @@ var express = require('express');
 var path = require('path');
 var open = require('open');
 
+// import webpack from 'webpack';
+// import config from '../webpack.config.dev';
+// const compiler = webpack(config);
+
+// app.use(require('webpack-dev-middleware')(compiler, {
+//     noInfo: true,
+//     publicPath: config.output.publicPath
+// }))
+
 var port = 3000;
 var app = express();
 

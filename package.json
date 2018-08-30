@@ -9,6 +9,7 @@
   "author": "Cory House",
   "license": "MIT",
   "dependencies": {
+    "@types/chalk": "^2.2.0",
     "npm": "^6.4.1",
     "whatwg-fetch": "1.0.0"
   },
